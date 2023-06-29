@@ -11,3 +11,5 @@ Dashboard Image = Final.pdf
 
 
 ![alt text](https://github.com/kamalsambhani/PowerBi-1/blob/main/Final_page-0001.png)
+
+https://github.com/kamalsambhani/PowerBi-1/blob/main/Final_page-0001.png
