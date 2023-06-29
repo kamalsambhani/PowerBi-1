@@ -7,3 +7,7 @@ Cleaned Data = file1.csv
 Dashboard = PowerBiFinal.pbix
 
 Dashboard Image = Final.pdf
+
+
+
+[Alt text](https://github.com/kamalsambhani/PowerBi-1/blob/main/Final_page-0001.jpg)
