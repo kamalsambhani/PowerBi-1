@@ -1,4 +1,4 @@
-# PowerBI Dashboard Project 
+# PowerBI Sales Dashboard
 
 
 This sales dashboard is designed to track sales performance and identify trends. It uses historical data from our CRM system to visualize key metrics such as total sales, product sales, and sales by region.\
