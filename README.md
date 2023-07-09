@@ -1,7 +1,7 @@
 # PowerBI Sales Dashboard
 
 
-*This sales dashboard is designed to track sales performance and identify trends. 
+* This sales dashboard is designed to track sales performance and identify trends. 
 It uses historical data from the CRM system to visualize key metrics such as total sales, product sales, and sales by region.
 Data sources: The data for this dashboard is pulled from our CRM system.
 Key metrics: The dashboard tracks the following key metrics: Total sales Product sales Sales by region and date Visuals
